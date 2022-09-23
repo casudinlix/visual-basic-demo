@@ -27,5 +27,10 @@ WindowsApplication1
 Represents a strongly typed in-memory cache of data.
 </summary>
 </member>
+<member name="T:WindowsApplication1.latihanDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
 </members>
 </doc>

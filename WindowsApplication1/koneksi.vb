@@ -16,7 +16,7 @@ Module koneksi
 
             Try
                 conn.Open()
-                MsgBox("Koneksi Berhasil")
+                'MsgBox("Koneksi Berhasil")
             Catch ex As Exception
                 MsgBox("Koneksi Gagal: " & ex.ToString)
             End Try
@@ -35,16 +35,7 @@ Module koneksi
 
         End If
     End Sub
-    Public Sub loaddata()
-        Call bukakoneksi()
-        Dim sql = "SELECT * FROM users"
-        Da = New SqlDataAdapter(sql, conn)
-        Ds = New DataSet()
-        Ds.Clear()
-        Da.Fill(Ds, "users") 'Nama tabel
-        DataGridView1.DataSource = (Ds.Tables("users"))
 
-    End Sub
     ' untuk reset form
     Public Sub ClearTextBoxes(frm As Form)
 
