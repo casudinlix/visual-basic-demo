@@ -1,0 +1,12 @@
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.User.resources
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\project\desktop\ke1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
